@@ -13,6 +13,8 @@ Les tests qui marchent pas sont dans test/models/controllers/home_controller_tes
 
 La feature n'est pas faite.
 
+************************************************
+
 Un petit lien heroku pour toi:
 
 https://sheltered-badlands-66486.herokuapp.com/
@@ -21,6 +23,8 @@ Pour acceder à la page des users signed up, sur Heroku, voici les identifiants 
 
 joey&chandler@mail.com
 mdp: joeychandler
+
+*************************************************
 
 Pour acceder à la page des users signed up sur le projet git: 
 
