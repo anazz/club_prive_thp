@@ -27,6 +27,8 @@ Pour acceder à la page des users signed up sur le projet git:
 monica.bing@yahoo.com
 mdp: minimum
 
+Merci à toi 💛 💚 💙 💜!
+
 
 
 
