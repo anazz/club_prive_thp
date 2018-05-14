@@ -1,0 +1,6 @@
+<h1>The Club's members</h1>
+
+<%= @users.each do |user| %>
+<h4><%= user.first_name %> <%= user.last_name%></h4>
+<p><%= user.email %></p>
+<% end %>
