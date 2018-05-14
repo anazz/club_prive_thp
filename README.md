@@ -1,24 +1,32 @@
-# README
+# Cher correcteur,
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Voici ma version ruby
 
-Things you may want to cover:
+* Ruby version 2.3.4
 
-* Ruby version
+Par rapport au projet,
 
-* System dependencies
+Tout n'est pas fait. 
+Les tests qui marchent tu vas les trouver dans test/models/user_test.rb
 
-* Configuration
+Les tests qui marchent pas sont dans test/models/controllers/home_controller_test.rb
 
-* Database creation
+La feature n'est pas faite.
 
-* Database initialization
+Un petit lien heroku pour toi:
 
-* How to run the test suite
+https://sheltered-badlands-66486.herokuapp.com/
 
-* Services (job queues, cache servers, search engines, etc.)
+Pour acceder à la page des users signed up, sur Heroku, voici les identifiants d'un user:
 
-* Deployment instructions
+joey&chandler@mail.com
+mdp: joeychandler
 
-* ...
+Pour acceder à la page des users signed up sur le projet git: 
+
+monica.bing@yahoo.com
+mdp: minimum
+
+
+
+
